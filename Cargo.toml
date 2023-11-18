@@ -1,0 +1,8 @@
+[package]
+name = "gpio-fan"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gpio-cdev = "0.6"
+sysinfo = "0.29"
